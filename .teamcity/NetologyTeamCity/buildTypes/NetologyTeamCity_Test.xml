@@ -21,14 +21,7 @@
       <vcs-entry-ref root-id="NetologyTeamCity_NetologyTeamCity" />
     </vcs-settings>
     <requirements />
-    <build-triggers>
-      <build-trigger id="remoteRunOnBranch" type="remoteRunOnBranch">
-        <parameters>
-          <param name="branchy:jetbrains.git" value="pattern:jetbrains.git" />
-          <param name="pattern:jetbrains.git" value="refs/heads/remote-run/*" />
-        </parameters>
-      </build-trigger>
-    </build-triggers>
+    <build-triggers />
     <cleanup />
   </settings>
 </build-type>
