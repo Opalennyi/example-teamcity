@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7863f4e0-2668-4ddd-af4b-9e1227c4cf35" name="Changes" comment="Committing unversioned files before merging" />
+    <list default="true" id="7863f4e0-2668-4ddd-af4b-9e1227c4cf35" name="Changes" comment="Merged branches">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feature/add_reply" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -65,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664737507424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merged branches">
+      <created>1664737653877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664737653877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +95,7 @@
     <MESSAGE value="Adding feature/add_reply branch" />
     <MESSAGE value="Adding a new method for Welcomer and a test" />
     <MESSAGE value="Committing unversioned files before merging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing unversioned files before merging" />
+    <MESSAGE value="Merged branches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged branches" />
   </component>
 </project>
